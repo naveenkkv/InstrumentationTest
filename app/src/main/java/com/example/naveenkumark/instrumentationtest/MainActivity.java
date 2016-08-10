@@ -27,3 +27,4 @@ public class MainActivity extends AppCompatActivity {
         ((LocationManager) getSystemService(Context.LOCATION_SERVICE)).getLastKnownLocation("test");*/
     }
 }
+
