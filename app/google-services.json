@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "849459922887",
+    "firebase_url": "https://project-4224380009656280024.firebaseio.com",
+    "project_id": "project-4224380009656280024",
+    "storage_bucket": "project-4224380009656280024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849459922887:android:0b6604bdd11f6be4",
+        "android_client_info": {
+          "package_name": "com.example.naveenkumark.instrumentationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849459922887-9893l6jed3c6ev0fv8evri1ekdl9c68b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenkumark.instrumentationtest",
+            "certificate_hash": "817AD0A57BD7B7F869533EF6B09FA16095D278BA"
+          }
+        },
+        {
+          "client_id": "849459922887-ln96ag1fht6rr1ua58gbvnaorp13hom7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenkumark.instrumentationtest",
+            "certificate_hash": "765B27F9041571D1C5F7CB86695C112264B61F5D"
+          }
+        },
+        {
+          "client_id": "849459922887-fto987dno5sh8u0tk55p94fv3cqtv909.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjo7nLIi_Y4yr9HAIPxU2ezFKOXoBKzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849459922887-fto987dno5sh8u0tk55p94fv3cqtv909.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
