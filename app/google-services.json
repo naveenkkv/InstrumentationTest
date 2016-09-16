@@ -15,6 +15,30 @@
       },
       "oauth_client": [
         {
+          "client_id": "849459922887-klctc76l872iulk7phdtag78bhhv95gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenkumark.instrumentationtest",
+            "certificate_hash": "1A7889D790C9440EE22C1D74240743A5BBEBCA90"
+          }
+        },
+        {
+          "client_id": "849459922887-05mberfr528f2as9ruhveb0h48al30ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenkumark.instrumentationtest",
+            "certificate_hash": "A8C27B081118B7618547952B233504B35345EFD5"
+          }
+        },
+        {
+          "client_id": "849459922887-qf7dh5m9jr3a6luitauuja43onbl0u1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenkumark.instrumentationtest",
+            "certificate_hash": "D3A928B5118CABBC926481C0C73413605EA0728F"
+          }
+        },
+        {
           "client_id": "849459922887-9893l6jed3c6ev0fv8evri1ekdl9c68b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
